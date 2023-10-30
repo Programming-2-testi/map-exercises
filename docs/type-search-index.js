@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"part02","l":"Course"},{"p":"part01","l":"MapBasics"},{"p":"part02","l":"MapExperts"},{"p":"part03","l":"PostalCodes"},{"p":"part03","l":"PostalCodesMain"}];updateSearchResults();
